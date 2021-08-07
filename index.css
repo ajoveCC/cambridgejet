@@ -1,0 +1,72 @@
+.main-container {
+    max-width: 1300px;
+    margin:100px auto;
+    
+}
+
+.card-container {
+    border:5px solid #FA7D09;
+    width:1300px;
+    padding:20px 20px;
+    border-radius: 20px;
+    
+}
+
+.card-container h2 ,h1{
+    text-align: center;
+}
+
+.most-used h2 {
+    padding-top:10px;
+    text-transform: uppercase;
+    text-align:center;
+}
+
+.most-used {
+    margin-top:20px;
+    width:400px;
+    border:8px solid #716F81;
+    border-radius: 20px;
+}
+
+.most-used-links {
+    padding:20px 0 20px 100px;
+}
+
+.right-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right-section ul {
+    display: flex;
+    list-style-type: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    
+
+}
+
+.right-section h2 {
+    text-align: center;
+    padding-bottom: 10px;
+    color:black;
+}
+.right-section li {
+    padding:0 15px;
+}
+
+.right-section a {
+    color:#0F52BA;
+    text-decoration: none;
+}
+
+.right-section a:hover {
+    
+    text-decoration: underline;
+}
+
+.right-section a:visited {
+    color:#0F52BA;
+}
+
